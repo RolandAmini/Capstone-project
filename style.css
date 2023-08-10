@@ -5,7 +5,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
-    border: 1px solid green;
+    border: 1px solid ;
 }
 a{
     color: inherit;
@@ -340,9 +340,7 @@ footer{
 }
 .past-img img{
     max-width: 50%;
-    height: auto;
-    
-    
+    height: auto;    
 }
 .past-33{
     background-image: url('./about-C.jpg');
