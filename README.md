@@ -1,10 +1,18 @@
+<<<<<<< HEAD
+=======
+# Capstone-project
+>>>>>>> 13f268006e8657165599c557ac2cbf78a0538b60
 <a name="readme-top"></a>
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
+<<<<<<< HEAD
 - [📖 My Portfolio ](#-my-portfolio-)
+=======
+- [📖 Caspstone ](#-capstone-project-)
+>>>>>>> 13f268006e8657165599c557ac2cbf78a0538b60
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -25,7 +33,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
+<<<<<<< HEAD
 # 📖 My Portfolio <a name="about-project"></a>
+=======
+# 📖 Capstone-project <a name="about-project"></a>
+>>>>>>> 13f268006e8657165599c557ac2cbf78a0538b60
 
 This is a mobile responsive project. I used HTML, CSS and JavaScript to build this project.
 
